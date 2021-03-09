@@ -3,7 +3,7 @@ import { useState } from "react"
 function home() {
   return (
     <div>
-      <h1>Home 3</h1>
+      <h1>Pagina Inicial </h1>
       <Contador />
     </div>
 
